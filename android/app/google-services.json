@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240718836142",
+    "project_id": "senagromarket-d25ea",
+    "storage_bucket": "senagromarket-d25ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240718836142:android:8b3733ae9e41965044583f",
+        "android_client_info": {
+          "package_name": "sn.senagromarket.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqJASz8Pu2XnAIxS8XO-zOzE8nl2aVVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
